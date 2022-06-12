@@ -48,6 +48,7 @@ h1 {
 footer {
     background-color: rgba(42, 65, 32, 0.5);
     padding: 2%;
+    color: white;
 }
 
 .footer-button {
@@ -58,4 +59,9 @@ footer {
 
 .footer-menu {
     margin: 0;
+}
+
+.disclaimer {
+    width: 100%;
+    margin: 1% auto;
 }
