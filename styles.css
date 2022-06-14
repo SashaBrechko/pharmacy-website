@@ -7,7 +7,7 @@ body {
 
 .container {
     width: 80%;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 3px;
     border: 1px solid rgba(42, 65, 32, 0.5);
     display: inline-block;
@@ -58,7 +58,6 @@ h1 {
 .menu-button-active {
     color: rgb(255, 255, 255);
     background-color: rgba(42, 65, 32, 0.5);
-    border: 0;
 }
 
 /* index content */
@@ -148,6 +147,7 @@ h1 {
     vertical-align: bottom;
     margin-bottom: 3%;
     height: 500px;
+    background-color: white;
 }
 
 .prod-img {
